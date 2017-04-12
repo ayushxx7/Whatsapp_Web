@@ -1,0 +1,10 @@
+appdirs==1.4.3
+olefile==0.44
+packaging==16.8
+Pillow==4.1.0
+PyAutoGUI==0.9.35
+PyMsgBox==1.0.6
+pyparsing==2.2.0
+PyScreeze==0.1.9
+PyTweening==1.0.3
+six==1.10.0
