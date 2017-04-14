@@ -1,0 +1,155 @@
+This was my contact list for the project, extracted from google using python.
+The space you see before 'MSIT' names is because their were serial no.s here before, they were removed by regex and I didn't remove the space by mistake, but it doesn't matter, because it gives more of a real feel to the message, as messages we type tend to have some silly mistake all the time :P .
+
+
+ Abhishek Arora MSIT
+ Ayush Sharma MSIT  
+ Deepanshu Jayant MSIT
+ Gaurang Sahu MSIT
+ Himalaya MSIT
+ Himanshu Gautam MSIT
+ Manshu Madaan MSIT
+ Ishank Bahl MSIT
+ Kanishk Kalra MSIT
+ Kapil Kumar MSIT
+ Abhishek Negi MSIT
+ Kunal Ranjan MSIT
+ Lavi Gupta
+ Vignesh MSIT
+ Manav Bhardwaj MSIT
+ Naveen Kumar MSIT
+ Navneet MSIT
+ Nilay Anand MSIT
+ Pooja Sahore MSIT
+ Pratyasha Sharma MSIT
+ Pulkit MSIT 
+ Achal Goel MSIT
+ Raghav Budhiraja MSIT
+ Rishabh Sarda MSIT
+ Sachin Chaudhary MSIT
+ Sagnik Roy MSIT
+ Saurav Goyal MSIT
+ Shivani MSIT
+ Suraj
+ Tarun Kukreja MSIT
+ Tejasav Khattar MSIT
+ Aman Purohit MSIT
+ Vaibhav Yadav MSIT
+ Vansh MSIT
+ Vishrut Kohli MSIT
+ Nitesh Poonia MSIT
+ Diwansh Gulyani MSIT
+ Siddhant Manau MSIT
+ Vardaan Arora MSIT
+ Umesh Sharma MSIT
+ Uditi Chaudhary MSIT
+ Vishant Kumar MSIT
+ Amrit Singh MSIT
+ Aditya Mathur MSIT
+ Akshay Chaudhary MSIT
+ Vishank Tomar MSIT	
+ Ankit Dua MSIT
+ Anuj Gupta MSIT
+ Anuj Kumar MSIT
+ Ayusch Jain MSIT
+Abhilek Singh Mehar Fan
+Aditya Koli
+Adiya Arora
+Akshay Ray Fan 
+Amit Gas
+Amit Lahoti
+Anand Chotala Fan
+Anmol
+Arjun Grover
+Arjun Singh
+Ashish Singh Fan
+Ashrey kakar
+Ashrey new
+AsS
+Biplab Fan
+Darshan Jain
+Dhruv
+Dhruv New
+Dhwani Dd
+Div
+Faraz Ahmed Khan
+Garvit
+Harshit Gupta
+Haselo Katelo Fan
+Himanshu Jindal
+Kamal Admin
+Kapil Vinayak
+Karan 2
+Karan Ajwani
+Kunal Khurana
+Lakshay Newest
+Lakshay khms
+Madhur Kakkar
+Mahima vinayak
+Medha
+Moniish Fan
+Mridul Goyal Fan
+Mummy
+Nakul Batra
+Naman
+Nimish
+Nishtha 2 Nd
+Nitin Admin
+Palak
+Panwari
+Papa
+Paras Nagpal
+Parth Vats Fan
+Pawan Bhai
+Piyush Ashok
+Prakshi
+Prashant
+Prateek Mangla
+Pratik Bhaiya
+Pravesh Fan
+Rizul Khanna
+Robin
+Rupendra Sargam Fan
+Saahil
+Saatvik
+Sakshi Goyal
+Samaksh
+Sanchit Ahiya MSIT
+Sanket Koli Fan
+Sanoj Kumar Fan
+Saurabh
+Shagun
+Shivam j block
+Shivam Mishra Fan
+Shubham Goel
+Shubham Jain
+Siddhi
+Sig c++/c
+Sohit Gupta
+Sonu Bhaiya
+Sourabh
+Sudarshan Singh Shekhawat Fan
+Suraj Gaur Fan
+Surbhi
+Tanmay Sharma
+Tanvi
+Tanya
+Tanya Agarwal
+Tarpan
+Tarun Varshney
+Tushar
+Tushar MSIT
+Uday
+Udbhav
+Umesh Saradhna Fan
+Vaibhav Modi
+Vasu Sharma
+Vasundhara
+Vibhuti
+Vidit Mandowara
+Vipin Joshi Fan
+Vipul Kalra Fan
+Wiki
+Yash Jain
+Yogesh Mehta
+Yuvraj (it) evening
